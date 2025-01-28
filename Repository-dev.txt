@@ -11,3 +11,11 @@ o] 3mentarios
 (o) sin mentarios
 
 guardo cambios en archivo, ahora si hago commint
+
+agrego algo
+
+agrego bug
+
+intento
+
+v0.0.01
