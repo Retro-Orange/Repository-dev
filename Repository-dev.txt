@@ -5,3 +5,9 @@ o/ 5comentarios
 o] 3mentarios
 
 (o( 2mentarios
+
+)o) 1mentarios
+
+(o) sin mentarios
+
+guardo cambios en archivo, ahora si hago commint
